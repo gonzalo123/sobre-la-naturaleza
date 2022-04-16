@@ -18,7 +18,7 @@ header_pages:
 - posts.md
 
 twitter:
-  username: @gonzalo123
+  username: gonzalo123
   url: https://twitter.com/gonzalo123
 
 paginate: 5
