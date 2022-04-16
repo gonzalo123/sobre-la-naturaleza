@@ -2,6 +2,12 @@
 layout: post
 title: "Sobre cavernas y dioses"
 author: "Gonzalo Ayuso"
+tags: 
+  - "Platón"
+  - "Tomás de Aquino"
+  - "Parménides"
+  - "Heráclito"
+  - "Epicuro"
 ---
 
 En el mito de la caverna de Platón los hombres viven encadenados en el fondo de una caverna. Solo pueden ver las sombras que se proyectan sobre la pared de la cueva. Siempre han vivido ahí por lo que para ellos esas sombras son la única realidad. No conocen otra cosa que esa realidad por lo que no puede pensar en otra cosa que no sea eso.
