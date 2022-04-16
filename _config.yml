@@ -16,12 +16,11 @@ minima_reboot:
 header_pages:
 - about.md
 - posts.md
-- github.md
 
 footer_icons:
-- username: aterenin/minima-reboot/
-  url: https://github.com/aterenin/minima-reboot/
-  icon: icon-github.svg
+- username: gonzalo123
+  url: https://twitter.com/gonzalo123
+  icon: icon-twitter.svg
 
 paginate: 5
 
