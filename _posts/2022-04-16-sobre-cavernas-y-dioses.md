@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cavenas y dioses"
+title: "Sobre cavernas y dioses"
 author: "Gonzalo Ayuso"
 ---
 
