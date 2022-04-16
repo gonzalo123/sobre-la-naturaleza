@@ -2,6 +2,8 @@ title: Sobre la naturaleza
 author: Gonzalo Ayuso
 email: gonzalo123@domain.com
 description: ... o del devemir
+twitter_username: gonzalo123
+twitter_url: https://twitter.com/gonzalo123
 
 plugins:
   - jekyll-seo-tag
@@ -16,9 +18,6 @@ minima_reboot:
 header_pages:
 - about.md
 - posts.md
-
-twitter_username: gonzalo123
-twitter_url: https://twitter.com/gonzalo123
 
 paginate: 5
 
