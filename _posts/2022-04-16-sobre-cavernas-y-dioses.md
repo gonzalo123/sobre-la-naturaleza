@@ -32,7 +32,7 @@ Discutir la idea de Dios como bien absoluto siempre termina poniendo encima de l
 
 El la época de Epicuro el miedo a los dioses era algo latente en la sociedad. Los dioses, al menos los dioses homéricos, no eran especialmente benévolos con los humanos. Nadie quería cruzarse con un dios. La vida no era sencilla. También hay que tener en cuenta que el concepto de religión en la Antigua Grecia era muy diferente del que tenemos hoy en día. La postura de Epicuro viene en esta frase que se le atribuye: 
 
-¿Dioses? Tal vez los haya. Ni lo afirmo ni lo niego, porque no lo sé ni tengo medios para saberlo. Pero sé, porque esto me lo enseña diariamente la vida, que si existen ni se ocupan ni se preocupan de nosotros.
+> ¿Dioses? Tal vez los haya. Ni lo afirmo ni lo niego, porque no lo sé ni tengo medios para saberlo. Pero sé, porque esto me lo enseña diariamente la vida, que si existen ni se ocupan ni se preocupan de nosotros.
 
 Es difícil de asegurar que la paradoja de Epicuro fuese de este ya que menciona el término de la omnipotencia de Dios y eso es un concepto muy posterior a Epicuro. De todas formas esta paradoja se usa mucho para negar la existencia de Dios o la menos para desmontar la idea de Dios como el bien absoluto.
 
