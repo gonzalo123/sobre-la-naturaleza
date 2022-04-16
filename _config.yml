@@ -17,9 +17,8 @@ header_pages:
 - about.md
 - posts.md
 
-twitter:
-  username: gonzalo123
-  url: https://twitter.com/gonzalo123
+twitter_username: gonzalo123
+twitter_url: https://twitter.com/gonzalo123
 
 paginate: 5
 
