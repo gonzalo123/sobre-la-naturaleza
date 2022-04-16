@@ -18,9 +18,8 @@ header_pages:
 - posts.md
 
 footer_icons:
-- username: gonzalo123
+- username: @gonzalo123
   url: https://twitter.com/gonzalo123
-  icon: twitter-logo-2429.svg
 
 paginate: 5
 
