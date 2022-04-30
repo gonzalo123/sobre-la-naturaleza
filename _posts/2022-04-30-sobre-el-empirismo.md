@@ -33,9 +33,8 @@ Hemos quedado que las ideas son la combinación de ideas simples que percibimos 
 
 Para Berkeley (filósofo empirista) solo existen dos tipos de cosas:
 
-- Lo que percibimos por los sentidos
-- Las mentes que perciben las cosas.
-
+* Lo que percibimos por los sentidos
+* Las mentes que perciben las cosas.
 
 Si las cosas solo existen cuando las percibimos tenemos la paradoja que un objeto solo existe cuando lo miramos y deja de existir cuando no lo hacemos. **¿Hay algo que garantiza la existencia cuando no miramos?** Para Berkeley ese algo es Dios. Dios siempre esta viendo todas las cosas y es el garante de su existencia.
 
