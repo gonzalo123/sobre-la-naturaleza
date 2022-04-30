@@ -16,7 +16,6 @@ Los filósofos racionalistas dicen que nuestra mente viene ya con ideas innatas.
 Por otro lado están los empiristas. Estos afirman que nuestro cerebro parte de cero. Tenemos que obtenerlo todo a partir de los sentidos. Todo entra por ahí. Como decía Aristóteles:
 
 > “No hay nada en el intelecto que antes no haya pasado por los sentidos”
-> 
 
 Para los empiristas en nuestra mente no hay ideas innatas. El cerebro parte de una tabula rasa. Todo es captado por los sentidos. Estos captan unas ideas simples, unas formas, objetos y sensaciones que se registran de manera pasiva. A partir de estas ideas simples nosotros somos capaces de elaborar el resto de ideas.
 
@@ -36,6 +35,7 @@ Para Berkeley (filósofo empirista) solo existen dos tipos de cosas:
 
 - Lo que percibimos por los sentidos
 - Las mentes que perciben las cosas.
+
 
 Si las cosas solo existen cuando las percibimos tenemos la paradoja que un objeto solo existe cuando lo miramos y deja de existir cuando no lo hacemos. **¿Hay algo que garantiza la existencia cuando no miramos?** Para Berkeley ese algo es Dios. Dios siempre esta viendo todas las cosas y es el garante de su existencia.
 
