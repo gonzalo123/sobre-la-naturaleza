@@ -11,7 +11,7 @@ tags:
 ---
 
 En el mito de la caverna de Platón los hombres viven encadenados en el fondo de una caverna. Solo pueden ver las sombras que se proyectan sobre la pared de la cueva. Siempre han vivido ahí por lo que para ellos esas sombras son la única realidad. No conocen otra cosa que esa realidad por lo que no puede pensar en otra cosa que no sea eso.
-
+<!--more-->
 Las cadenas que les atan a la caverna representan los sentidos. Son estos los que nos impiden ver nada más que las sombras. Esta limitación de los sentidos es algo que otros filósofos anteriores a Platón ya habían planteado. Heráclito ya decía que los sentidos captan cosas estables pero esto es solo apariencia. Si tensamos un arco aparentemente está quieto pero tras esa apariencia que nos dan los sentidos hay una tensión entre fuerzas opuestas. Parménides también decía que los sentidos nos engañan y tenemos que guiarnos por la razón.
 
 Parménides influye mucho en Platón (y en muchos otros filósofos). Para Parménides el origen, la génesis de todo (lo que se denominaba el arjé) es el ser. Su máxima “_El ser es y es imposible que no sea_” representa la única vía posible para obtener el conocimiento frente a la otra vía (impracticable para Parménides) que es “_El no ser no es y es imposible que sea_”. El no ser es la nada. No existe. Es imposible ni siquiera que pensemos en ello. Si pudiéramos siquiera imaginar el “no ser” ese “sería”  y esto es imposible. La vía del “no ser” es impracticable ya que parte de la premisa del conocimiento de algo que no se puede conocer. 
