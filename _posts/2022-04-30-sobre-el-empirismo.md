@@ -2,6 +2,7 @@
 layout: post
 title: "Sobre el empirismo o, si cierro los ojos no existes."
 author: "Gonzalo Ayuso"
+excerpt_separator: <!--more-->
 tags: 
   - "Empirismo"
   - "Aristóteles"

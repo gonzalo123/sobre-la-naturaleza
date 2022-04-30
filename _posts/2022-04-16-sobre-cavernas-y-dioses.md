@@ -2,6 +2,7 @@
 layout: post
 title: "Sobre cavernas y dioses"
 author: "Gonzalo Ayuso"
+excerpt_separator: <!--more-->
 tags: 
   - "Platón"
   - "Tomás de Aquino"
