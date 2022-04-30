@@ -9,7 +9,7 @@ tags:
   - "Hume"
 ---
 
-En nuestra cabeza tenemos ideas de todo tipo. Ideas de cosas concretas, de seres concretos,... También tenemos ideas de cosas universales, como la definición del círculo y de un árbol. Incluso de conceptos más abstractos como la belleza, la perfección,... Todo genial pero: **¿Cómo han llegado a nuestra mente estas ideas?**
+En nuestra cabeza tenemos ideas de todo tipo. Ideas de cosas concretas, de seres concretos,... También tenemos ideas de cosas universales, como la definición del círculo y de un árbol. Incluso de conceptos más abstractos como la belleza, la perfección,... Todo genial pero: ¿Cómo han llegado a nuestra mente estas ideas?
 
 Los filósofos racionalistas dicen que nuestra mente viene ya con ideas innatas. Son ideas intuitivas y evidentes sobre las que aplicamos técnicas deductivas para conseguir la secuencias lógicas de las cosas. 
 
