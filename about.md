@@ -4,7 +4,7 @@ title: Yo
 permalink: /about/
 ---
 
-¿Quién soy yo? Una buena pregunta en un blog sobre filosofía. Bueno no se si esto va sobre filosofía o sobre cuñadismo. De todas formas la linea que separa el discurso filosófico de la charla del cuñado es muy fina.
+¿Quién soy yo? Para los griegos, el hombre podía definirse como el único animal capaz de ses consciente del ser de las cosas, pero dando por sentado que lo existente no depende del ser humano ni del funcionamiento de la mente. Bueno no se si esto va sobre filosofía o sobre cuñadismo. De todas formas la linea que separa el discurso filosófico de la charla del cuñado es muy fina.
 
 Aquí pondré mis ideas sobre la vida, el devenir y la existencia. No tengo claro de lo que estoy hablando. No me hagas mucho caso. Solo son ideas y pensamientos sobre cosas que voy leyendo.
 
