@@ -14,9 +14,9 @@ La zona de confort es genial. Ese pequeño lugar, limitado, donde lo tenemos tod
 <!--more-->
 Cuando abrimos las puertas de nuestra zona de confort vemos la inmensidad del mundo. Un mundo donde que nuestro pequeño cinturón de herramientas no es suficiente para solucionar los problemas. El mundo no es tan predecible como lo era antes. Ya no somos dioses. Somos seres minúsculos. Queremos volver a nuestra zona de confort pero, ¿y si esta ya no existe? Cómo dice Antonio Vega.
 
-> *Me da miedo la enormidad, donde nadie oye mi voz* 
+> Me da miedo la enormidad, donde nadie oye mi voz 
 > 
-> *En un mundo descomunal, siento tu fragilidad*
+> En un mundo descomunal, siento tu fragilidad
 > 
 > Antonio Vega, Lucha de gigantes
 
@@ -26,11 +26,10 @@ Esto mismo pasó en el mundo antiguo y fue la chispa que generó una nueva serie
 
 La pertenencia a la polis era lo primordial. Todo giraba en torno a ella. Los dioses, de la misma manera, eran protectores de las polis, no de las personas. De ahí que surge el concepto de ciudadanía (que viene de ciudad). Para un ciudadano participar en la política de la cuidad era lo más importante. Se defendía con la vida si era necesario. Alguien que, pudiendo hacerlo, no se dedicara a los asuntos comunes de la polis y prefiriera los asuntos propios, era considerado un idiota (*idios* viene a significar propio o particular)
 
-> *El hombre es un ser social por naturaleza*
+> El hombre es un ser social por naturaleza
 > 
 > Aristóteles, Política
  
-
 Durante el siglo V a. C., en la Atenas de Pericles, la búsqueda de la excelencia de los griegos (el **areté**), genera una auge radical de la cultura y filosofía. De los primeros filósofos, centrados en explicar la naturaleza, surge otro grupo de filósofos, personificados en Platón y Aristóteles, que ponen al ser humano en en centro mundo, relegando a la naturaleza. La filosofía se centra en una visión especulativa del mundo centrada en las ideas, o bien en explicar la realidad sin desprenderse de los sentidos. Las preocupaciones filosóficas se elevan a conceptos como la razón, el bien, el amor, la justicia o la ley. La ley como expresión de la obligación del cumplimento del contrato social con la polis.
 
 Pero el mundo griego cambió radicalmente en el año 323 a. C. En ese año muere una persona que marcó un antes y un después: Alejandro Magno. Alejandro hereda de su padre Filipo unas polis griegas en decadencia y subyugadas al domino macedonio del padre de Alejandro. Tras la muerte de Filipo, Alejandro se queda con el poder a la edad de veinte años y emprende una impresionante campaña de conquistas. En el 323 a. C., a la edad de 32 años, Alejandro muere. Su imperio, en solo 12 años, había pasado de ser una pequeña zona rocosa en el centro del mediterráneo a todo el mundo conocido. Desde el sur de Italia hasta la India, pasando por Egipto.
@@ -49,7 +48,7 @@ El minúsculo mundo de su polis se abre a la inmensidad del cosmos. Hemos pasado
 
 La filosofía no abandona el pensamiento anterior pero se empieza a preguntar por la vida y la felicidad. La filosofía no se muestra inmune a este cambio. Llega tarde, como siempre, pero afronta este miedo y responde al problema social.
 
-> *La filosofía llega siempre demasiado tarde. En cuanto pensamiento del mundo, aparece en el tiempo solo después de que la realidad ha consumado su proceso de formación y se halla ya lista y terminada. Lo que enseña el concepto lo muestra con la misma necesidad la historia: Solo en la madurez de la realidad aparece lo ideal frente a lo real y erige a este mismo aprehendido en su sustancia, en la figura de un reino intelectual. Cuando la filosofía pinta con tonos grises, ya ha envejecido una figura de la vida que sus penumbras no pueden rejuvenecer, sino solo conocer: El búho de Minerva solo alza el vuelo en el ocaso.*
+> La filosofía llega siempre demasiado tarde. En cuanto pensamiento del mundo, aparece en el tiempo solo después de que la realidad ha consumado su proceso de formación y se halla ya lista y terminada. Lo que enseña el concepto lo muestra con la misma necesidad la historia: Solo en la madurez de la realidad aparece lo ideal frente a lo real y erige a este mismo aprehendido en su sustancia, en la figura de un reino intelectual. Cuando la filosofía pinta con tonos grises, ya ha envejecido una figura de la vida que sus penumbras no pueden rejuvenecer, sino solo conocer: El búho de Minerva solo alza el vuelo en el ocaso.
 >
 > Hegel, Estética 
 
