@@ -41,7 +41,7 @@ Pero… ¿en que situación quedan los habitantes de la Antigua Grecia tras la m
 
 Esa autarquía, de la que tanto se vanagloriaban, se torna en una dependencia a una entidad superior a la polis. Esto genera una desorientación. El ciudadano, que es lo que era por y para la ciudad, ve como todo su mundo, toda su zona de confort, se desintegra y desaparece delante de sus ojos.
 
-![Fight Club](/assets/5c8b2ead2000009e047057ff.gif)
+![Fight Club]({{site.url}}/assets/5c8b2ead2000009e047057ff.gif)
 
 El minúsculo mundo de su polis se abre a la inmensidad del cosmos. Hemos pasado de la ciudadanía al **cosmopolitismo**. Cosmos en griego significa orden, y nada parece estar regido por un orden. Esto genera desasosiego y miedo. 
 
