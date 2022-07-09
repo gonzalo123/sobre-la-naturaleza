@@ -19,7 +19,7 @@ header_pages:
 - about.md
 - posts.md
 
-paginate: 5
+paginate: 7
 
 markdown: kramdown
 
