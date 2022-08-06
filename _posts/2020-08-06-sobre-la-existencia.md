@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sobre la existencia"
+title: "Sobre la existencia."
 author: "Gonzalo Ayuso"
 excerpt_separator: <!--more-->
 tags: 
