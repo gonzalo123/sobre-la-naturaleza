@@ -12,7 +12,7 @@ tags:
 ---
 La zona de confort es genial. Ese pequeño lugar, limitado, donde lo tenemos todo bajo control. Podemos predecir lo que va a ocurrir y sabemos como actuar en consecuencia. Tenemos una serie de herramientas que dominamos, con las que podemos solucionar todos los problemas. Somos como dioses y eso nos da tranquilidad. **¿Es esto la felicidad?**
 <!--more-->
-Cuando abrimos las puertas de nuestra zona de confort vemos la inmensidad del mundo. Un mundo donde que nuestro pequeño cinturón de herramientas no es suficiente para solucionar los problemas. El mundo no es tan predecible como lo era antes. Ya no somos dioses. Somos seres minúsculos. Queremos volver a nuestra zona de confort pero, ¿y si esta ya no existe? Cómo dice Antonio Vega.
+Cuando abrimos las puertas de nuestra zona de confort vemos la inmensidad del mundo. Un mundo donde nuestro pequeño cinturón de herramientas no es suficiente para solucionar los problemas. El mundo no es tan predecible como lo era antes. Ya no somos dioses. Somos seres minúsculos. Queremos volver a nuestra zona de confort pero, ¿y si esta ya no existe? Cómo dice Antonio Vega.
 
 > Me da miedo la enormidad, donde nadie oye mi voz 
 > 
@@ -22,9 +22,9 @@ Cuando abrimos las puertas de nuestra zona de confort vemos la inmensidad del mu
 
 Antes éramos todopoderosos. No teníamos preocupaciones. Nos podíamos dedicar a filosofar sobre conceptos ontológicos y metafísicos como el ser, la justicia y la belleza. Nuestro yo estaba a salvo, pero… ¿y ahora? Ahora somos vulnerables. Estamos en peligro. Es por esto que empezamos a dejar de lado conceptos elevados y nos preocupamos de nosotros mismos y de nuestra felicidad.
 
-Esto mismo pasó en el mundo antiguo y fue la chispa que generó una nueva serie de corrientes filosóficas vigentes hasta nuestros días. En la Grecia arcaica y clásica las personas vivían en pequeñas ciudades estado independientes y autárquicas, llamadas polis. Moverse por la Grecia continental era difícil. Una orografía montañosa hacía que los viajes por tierra fueran complicados a par que largos y caros. Además había que añadir que los caminos estaban llenos de ladrones y resultaba peligroso. Los viajes por mar también eran complicados. Salvo los comerciantes, poca gente viajaba por placer. Viajar era algo heroico, algo digno de los poemas épicos. Esto se traduce en que la gente se pasaba la vida dentro de las polis y raro era que se alejaran de ella. 
+Esto mismo pasó en el mundo antiguo y fue la chispa que generó una nueva serie de corrientes filosóficas vigentes hasta nuestros días. En la Grecia arcaica y clásica las personas vivían en pequeñas ciudades estado independientes y autárquicas, llamadas polis. Moverse por la Grecia continental era difícil. Una orografía montañosa hacía que los viajes por tierra fueran complicados a la par que largos y caros. Además había que añadir que los caminos estaban llenos de ladrones y resultaba peligroso. Los viajes por mar también eran complicados. Salvo los comerciantes, poca gente viajaba por placer. Viajar era algo heroico, algo digno de los poemas épicos. Esto se traduce en que la gente se pasaba la vida dentro de las polis y raro era que se alejaran de ella. 
 
-La pertenencia a la polis era lo primordial. Todo giraba en torno a ella. Los dioses, de la misma manera, eran protectores de las polis, no de las personas. De ahí que surge el concepto de ciudadanía (que viene de ciudad). Para un ciudadano participar en la política de la cuidad era lo más importante. Se defendía con la vida si era necesario. Alguien que, pudiendo hacerlo, no se dedicara a los asuntos comunes de la polis y prefiriera los asuntos propios, era considerado un idiota (*idios* viene a significar propio o particular)
+La pertenencia a la polis era lo primordial. Todo giraba en torno a ello. Los dioses, de la misma manera, eran protectores de las polis, no de las personas. De ahí que surge el concepto de ciudadanía (que viene de ciudad). Para un ciudadano participar en la política de la cuidad era lo más importante. Se defendía con la vida si era necesario. Alguien que, pudiendo hacerlo, no se dedicara a los asuntos comunes de la polis y prefiriera los asuntos propios, era considerado un idiota (*idios* viene a significar propio o particular)
 
 > El hombre es un ser social por naturaleza
 > 
@@ -36,7 +36,7 @@ Pero el mundo griego cambió radicalmente en el año 323 a. C. En ese año muere
 
 Alejandro muere sin dejar un heredero y su basto imperio se reparte entre sus generales, en un periodo que se denomina helenismo. Estos generales, denominados diádocos, se sumergen en una serie de luchas de poder que, unido al auge una nueva potencia emergente (Roma), desemboca inexorablemente en el fin de la Antigua Grecia.
 
-Pero… ¿en que situación quedan los habitantes de la Antigua Grecia tras la muerte de Alejandro? Su mundo ha cambiado muy rápidamente. En solo 20 años todo se ha transformado y no han tenido tiempo de asimilar estos cambios. El helenismo significa la caída de las polis. Estas han perdido su capacidad de decisión. 
+Pero… ¿en que situación quedan los habitantes de la Antigua Grecia tras la muerte de Alejandro? Su mundo ha cambiado muy rápidamente. En solo 10 años todo se ha transformado y no han tenido tiempo de asimilar estos cambios. El helenismo significa la caída de las polis. Estas han perdido su capacidad de decisión. 
 
 Esa autarquía, de la que tanto se vanagloriaban, se torna en una dependencia a una entidad superior a la polis. Esto genera una desorientación. El ciudadano, que es lo que era por y para la ciudad, ve como todo su mundo, toda su zona de confort, se desintegra y desaparece delante de sus ojos.
 
