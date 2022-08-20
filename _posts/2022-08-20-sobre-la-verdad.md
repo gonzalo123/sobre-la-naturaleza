@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Sobre la mediocridad."
+title: "Sobre la verdad."
 author: "Gonzalo Ayuso"
 excerpt_separator: <!--more-->
 tags: 
-  - "Mediocridad"
+  - "Verdad"
+  - "Platón"
+  - "Nietzsche"
   - "Aristóteles"
-  - "Heidegger"
 ---
 Si hoy en día nos cuestionamos sobre lo que es la vedad es posible que lo que realmente nos estemos preguntado es que es lo que diferencia las afirmaciones ciertas de las afirmaciones falsas. Si bien para Parménides la verdad vendría a ser el “ser” (El caballo es), desde Platón entendemos a la verdad como una propiedad del ser. 
 <!--more-->
