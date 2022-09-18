@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sobre la filosofía y la religión en la Edad Media."
+title: "Sobre la filosofía y la religión en la Edad Media"
 author: "Gonzalo Ayuso"
 excerpt_separator: <!--more-->
 tags: 

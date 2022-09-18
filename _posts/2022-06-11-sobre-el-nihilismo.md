@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sobre el nihilismo o Dios ha muerto y lo hemos matado nosotros."
+title: "Sobre el nihilismo o Dios ha muerto y lo hemos matado nosotros"
 author: "Gonzalo Ayuso"
 excerpt_separator: <!--more-->
 tags: 

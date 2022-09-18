@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sobre la mediocridad."
+title: "Sobre la mediocridad"
 author: "Gonzalo Ayuso"
 excerpt_separator: <!--more-->
 tags: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sobre la verdad."
+title: "Sobre la verdad"
 author: "Gonzalo Ayuso"
 excerpt_separator: <!--more-->
 tags: 

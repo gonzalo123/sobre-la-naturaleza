@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sobre la belleza y lo bello."
+title: "Sobre la belleza y lo bello"
 author: "Gonzalo Ayuso"
 excerpt_separator: <!--more-->
 tags: 

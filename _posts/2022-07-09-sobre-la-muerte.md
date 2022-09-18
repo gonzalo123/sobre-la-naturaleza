@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sobre la muerte."
+title: "Sobre la muerte"
 author: "Gonzalo Ayuso"
 excerpt_separator: <!--more-->
 tags: 

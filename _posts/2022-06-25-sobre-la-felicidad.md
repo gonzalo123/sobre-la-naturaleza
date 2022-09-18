@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sobre la felicidad, zonas de confort, la ataraxia y los perros."
+title: "Sobre la felicidad, zonas de confort, la ataraxia y los perros"
 author: "Gonzalo Ayuso"
 excerpt_separator: <!--more-->
 tags: 
