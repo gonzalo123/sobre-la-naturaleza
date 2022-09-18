@@ -41,14 +41,14 @@ Entonces tenemos claro que deliberamos para tomar decisiones y que no deliberamo
 
 Hemos dicho que la deliberación es una técnica para tomar decisiones y, como tal, puede ser aprendida y practicada. Deliberar requiere experiencia y hay que ejercitarla. Aristóteles nos propone una serie de reglas a la hora de deliberar. La primera regla es clara: no hacerlo precipitadamente. Los griegos tenían un proverbio que decía “hay que deliberar por la noche”, proverbio de donde viene nuestro “consultarlo con la almohada”. Otra regla era verificar siempre toda información. No se puede tomar una decisión correcta partiendo de unos conocimientos que no lo son. Si acertamos en una decisión sin unos conocimientos previos nuestro acierto es solo cuestión de suerte y no de nuestra deliberación. Otra regla sería consultar y escuchar a asesores externos, expertos en la materia de la que estamos tratando. Estos consejeros tienen que ser unas personas desinteresadas. Personas a las que nuestras decisiones no les afecten ni para bien ni para mal. De todas formas, que sean personas desinteresadas no quiere decir que no les interese el tema. Son cosas diferentes. Otra regla sería observar la situación teniendo siempre en cuenta todos los puntos de vista y no solo el nuestro. La siguiente regla sería examinar todos los precedentes conocidos. Otra regla sería calibrar los resultados. Enumerar todas las consecuencias de nuestra decisión y prepararnos para las que consideremos posibles. La siguiente regla tiene que ver con la suerte. Hemos dicho que no tenemos que preocuparnos por los acontecimientos que no están en nuestra mano, pero, a la hora de tomar una decisión, debemos tener en cuenta las posibilidades aleatorias. Aristóteles propone otra curiosa regla más: “si bebes, no deliberes”. Esto parece evidente. Todos tenemos claro que tomar decisiones bajo los efectos del alcohol no es una buena idea. Los persas tenían un curioso método de votación. Como cuenta Heródoto en sus historias, lo hacían tras emborracharse juntos. Parece una contradicción, pero la clave estaba en que las decisiones que tomaban borrachos tenían que ser ratificadas al día siguiente cuando estaban sobrios. Si las dos decisiones coincidían daban por buena la votación.
 
-> *No deliberar precipitadamente. 
-> Verificar toda la información. 
-> Consultar y escuchar a asesores expertos. 
-> Tener en cuenta todos los puntos de vista. 
-> Examinar todos los precedentes. 
-> Calibrar los resultados y prepararse para las posibles > consecuencias.
-> Tener en cuenta las posibles aleatoriedades. 
-> Si bebes no deliberes.*
+> * No deliberar precipitadamente. 
+> * Verificar toda la información. 
+> * Consultar y escuchar a asesores expertos. 
+> * Tener en cuenta todos los puntos de vista. 
+> * Examinar todos los precedentes. 
+> * Calibrar los resultados y prepararse para las posibles > consecuencias.
+> * Tener en cuenta las posibles aleatoriedades. 
+> * Si bebes no deliberes.
 
 Pues estas son las reglas que propone Aristóteles para deliberar. Algo muy útil y que sigue vigente más de veinte siglos después. Bueno, en realidad he hecho trampa. Aristóteles propone una regla más: “*Mujeres y deliberación son incompatibles*”. La Antigua Grecia era una sociedad tremendamente machista. Más que machista diría que misógina. Aristóteles, a pesar de sentar las bases del pensamiento occidental e incluso influir enormemente en el oriental, no deja de ser una persona de su tiempo y tiene perlas como esta (e incluso peores), que nos duele al leerlas hoy.
 
