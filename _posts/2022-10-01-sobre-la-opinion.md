@@ -4,9 +4,9 @@ title: "Sobre la opinión"
 author: "Gonzalo Ayuso"
 excerpt_separator: <!--more-->
 tags: 
-  - "Heráclito"
   - "Aristóteles"
-  - "Platón
+  - "Platón"
+  - "Heráclito"
 ---
 Vivimos en la era de las redes sociales. Todo el mundo da su opinión constantemente. Alguien puede decir que una película es una obra maestra. Otra persona puede pensar totalmente lo contrario. ¿Quién tiene la razón? ¿La primera persona, la segunda?, ¿las dos?, ¿ninguna? ¿Son realmente imprescindibles estas opiniones? ¿sirven para algo?
 <!--more-->
