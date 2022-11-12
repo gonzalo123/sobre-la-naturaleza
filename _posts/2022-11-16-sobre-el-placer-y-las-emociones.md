@@ -3,16 +3,15 @@ layout: post
 title: "Sobre el placer y las emociones"
 excerpt_separator: <!--more-->
 tags: 
-  - "Religión"
-  - "Tomás de Aquino"
-  - "Averoes"
+  - "Epicuro"
+  - "Platón"
 ---
 ¿Cuál es nuestro objetivo en la vida? Es una pregunta compleja. Podemos dar diferentes respuestas y podemos debatir cuál es la que más se ajusta a nosotros. Una de estas respuestas es la felicidad. El objetivo de la vida es ser felices. Ahora bien, ¿qué es la felicidad? Hay una expresión griega que dice “Eu prattein” que vendría a significar “irle bien a uno”, “encontrarse o estar bien”, y que se refiere al estado resultante del bien obrar. Para Aristóteles este “bien vivir” y “bien estar” es idéntico a “ser feliz”. La gente de a pie no lo explicamos así. Nos solemos centrar en algo más concreto y para cada persona, o una misma persona el transcurso de su vida, puede identificar la felicidad con algo diferente como la riqueza, el placer, el honor… Para Aristóteles vivir bien,  es una de las cosas más importantes y constitute el pilar una disciplina filosófica como es la ética, de la misma manera que es uno de los pilares seminales de la filosofía política occidental. Uno de los indicadores de esta felicidad, de este buen vivir, vendrían a ser las emociones, el deseo y el placer.
 <!--more-->
 
 > El placer es el principio y el fin de una vida feliz
 > 
->Epicuro
+> Epicuro
 
 El placer es una sensación, una percepción que constituye una unidad de experiencia. Se puede ver al placer como el estado final ,la consecuencia, de un proceso que comienza con el deseo. Podemos ver al placer como una satisfacción. Entonces ¿es el placer equiparable a la felicidad? ¿Sentir placer lleva a la felicidad? ¿Es la felicidad placentera?
 
